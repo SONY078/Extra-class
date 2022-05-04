@@ -1,0 +1,15 @@
+.c
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+.it
+{
+    width: 200px;
+    height: 200px; 
+    border: 4px solid black;
+    display: inline; 
+
+}
